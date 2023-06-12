@@ -1,0 +1,14 @@
+button {
+    background-color: #ff0015;
+    border: 3px solid #000000;
+    margin: 3px;
+    border-radius: 10px;
+    width: 150px;
+  }
+  
+  
+  select {
+    display: block;
+    margin-bottom: 20px;
+  }
+  
